@@ -34,10 +34,6 @@
 ---
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsas-sharma&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages of Ahsas Sharma" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahsas-sharma&show_icons=true&theme=radical" alt="GitHub stats of Ahsas Sharma" />
 </p>
 
