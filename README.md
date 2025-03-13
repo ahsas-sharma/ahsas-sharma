@@ -13,11 +13,9 @@
 
 ---
 
-- 🔭 I’m currently building an exciting realtime chat app with [Pingu Chat](https://github.com/ahsas-sharma/pingu-chat-app), where communication meets fun!
+- 🌱 Expanding my abilities with **React Native** and **Advanced React Design Patterns**. Always upgrading my skills in the tech game!
 
-- 🌱 Expanding my knowledge with **WebSockets** and **Advanced React Design Patterns**. Always upgrading my skills in the tech game!
-
-- 👨‍💻 Dive into my projects at [ahsas.dev](https://ahsas.dev) – where code meets creativity.
+- 👨‍💻 Dive into my projects at [ahsas.dev] – where code meets creativity.
 
 - 📝 Check out my thoughts, notes, and technical musings in my [Tech Blog](#) (coming soon!).
 
