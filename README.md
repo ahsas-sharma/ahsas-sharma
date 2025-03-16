@@ -13,11 +13,7 @@
 
 ---
 
-- 🌱 Expanding my abilities with **React Native** and **Advanced React Design Patterns**. Always upgrading my skills in the tech game!
-
-- 👨‍💻 Dive into my projects at [ahsas.dev] – where code meets creativity.
-
-- 📝 Check out my thoughts, notes, and technical musings in my [Tech Blog](#) (coming soon!).
+- 🌱 Expanding my abilities with **React Native** and **CS50x**. 
 
 - 📫 Let’s talk! Reach me at **sharma.ahsas@gmail.com**
 
